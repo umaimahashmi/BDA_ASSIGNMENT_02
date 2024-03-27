@@ -2,7 +2,7 @@
 A repository created for big data assignment. <br>
 __----------------------------------__ <br>
 __GROUP MEMBERS__ <br>
-__1) Umaima Hashmi    22i-1894__   <br>
-__2) Nooran Ishtiaq   22i-2010__   <br>
-__3) Manhab Zafar     22i_1957__   <br>
+1) __Umaima Hashmi__       22i-1894   <br>
+2) __Nooran Ishtiaq__      22i-2010   <br>
+3) __Manhab Zafar__        22i_1957   <br>
 __----------------------------------__ <br>
